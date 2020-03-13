@@ -10,12 +10,14 @@
 
 
 # Description
+
 - Search for usernames on more than 75 social media.
 
 # Features
-- [x] **Supports Linux platform.**
-- [x] **Open Source. Can be added to social media.**
-- [x] **List of Social Media:**
+
+- [x] Supports Linux platform.
+- [x] Open Source. Can be added to social media.
+- [x] List of Social Media:
 ```
 [01] > Instagram
 [02] > Facebook
@@ -95,7 +97,10 @@
 [76] > Tripit
 [77] > Basecamp
 ```
+
 # Installation
+
+> ***Open the terminal and type following commands.***
 ```
 $ pkg install git
 $ git clone https://github.com/TheDarkRoot/UserID.git
@@ -103,6 +108,7 @@ $ cd UserID
 $ chmod +x UserID.sh
 $ bash UserID.sh
 ```
+
 # Screenshot
 
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/UserID%2001.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/UserID%2001.png)
