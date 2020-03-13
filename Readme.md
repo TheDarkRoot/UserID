@@ -12,6 +12,8 @@
 # Description
 
 - Search for usernames on more than 75 social media.
+- Developer of this software: **[@TheDarkRoot](https://github.com/TheDarkRoot)**
+- Official social media accounts: [@Telegram](https://t.me/TDarkRoot) &bull; [@Instagram](https://instagram.com/TheDarkRoot) &bull; [@Twitter](https://twitter.com/TDarkRoot) &bull; [@Github](https://github.com/TheDarkRoot)
 
 # Features
 
