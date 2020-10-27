@@ -878,17 +878,6 @@ printf "https://%s.basecamphq.com/login\n" $username >> $username.txt
 elif [[ $check1 == *'0'* ]]; then 
 printf "\033[31;1mNot Found!\e[0m\n"
 fi
-
-# Telegram
-printf "\033[34;1m[\e[0m\033[33;1m+\e[0m\033[34;1m]\e[0m\033[33;1m Telegram: \e[0m\033[0;1m"
-check1=$(curl -s -i "https://t.me.com/$username" -H "Accept-Language: en" -L | grep -o 'HTTP/2 404\|404 Not Found' ; echo $?)
-
-if [[ $check1 == *'1'* ]] ; then 
-printf "\033[32;1m Found!\e[0m https://t.me.com/$username\n" $username
-printf "https://t.me.com/$username\n" $username >> $username.txt
-elif [[ $check1 == *'0'* ]]; then 
-printf "\033[31;1mNot Found!\e[0m\n"
-fi
 partial
 }
 banner
