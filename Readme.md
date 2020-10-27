@@ -101,6 +101,7 @@ The author of this project is not responsible for any possible harm caused by th
 [75] > Tracky
 [76] > Tripit
 [77] > Basecamp
+[78] > Telegram
 ```
 
 # Installation
