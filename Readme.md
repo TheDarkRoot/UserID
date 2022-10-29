@@ -107,11 +107,16 @@ The author of this project is not responsible for any possible harm caused by th
 
 > ***Open the terminal and type following commands.***
 ```
-$ pkg install git
-$ git clone https://github.com/TheDarkRoot/UserID.git
-$ cd UserID
-$ chmod +x UserID.sh
-$ bash UserID.sh
+pkg install git -y
+```
+```
+git clone https://github.com/TheDarkRoot/UserID.git
+```
+```
+cd UserID;chmod +x UserID.sh
+```
+```
+bash UserID.sh
 ```
 
 # Screenshot
